@@ -1,0 +1,267 @@
+/* login */
+@media(orientation:landscape) and (min-width:500px){
+
+.logo{
+    display: block;
+    margin-left: 39.5%;
+    margin-top: 5%;
+    width: 250px;
+    border-radius: 20%
+}
+.perloginan{
+    position: absolute;
+    right: 45%;
+    top: 68%;
+    width: 11.4%;
+}
+.square{
+    
+    background-color: #AFA8A0;
+    border: none;
+    color: white;
+    padding: 0.5% 2%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    position: absolute;
+    right: 45%;
+    top:63%;
+    width: 8%;
+    font-weight: bold;
+    border-radius: 3%
+}  
+/* website introduction */
+.header{
+    position: absolute;
+    display: block;
+    height: 70px;
+    background-color: #CBC2B9;
+    padding: 3px;
+    z-index:5;
+    left:0; right:0;top:0; 
+}
+.headersentence{
+    text-align: center;
+    font-size:30px;
+    margin-top:16px;
+    color: white;
+}
+
+.bgcolor{
+    background-color: #C5A28E;
+}
+
+.gambarintroduction{
+   width: 50%;
+   position: absolute;
+   left: 0px;
+   height: 100%;
+}
+.Judul1{
+    font-size: 65px;
+    position: absolute;
+    right: 0px;
+    left: 59.8%;
+    top:31%;
+    width: 28%;
+    
+}
+.Tulisan1{
+    font-size: 25px;
+    position: absolute;
+    right: 0px;
+    left: 60%;
+    top:45%;
+    width: 28%;
+   
+}
+.button1{
+
+    background-color: #AFA8A0;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute;
+    right: 0px;
+    left: 59.9%;
+    top:63%;
+    width: 5%;
+    font-weight: bold;
+}
+
+/* Website Home */
+.linking{
+    color:white;
+    text-decoration:none;
+    background-color:none;
+    padding:20px;
+}
+
+.dashboard{
+  font-size:20px;
+ position:absolute;
+ top:80px;
+ left:44%;
+}
+.table1{
+    position:absolute;
+    top:100px;
+    width:95%;
+    left:2%;
+}
+.celltable1{
+ height:10px;
+ text-align:center;
+ font-size:60px;
+ height:fit-content;
+}
+
+.cellgambar1{
+text-align:center;
+width:50px;
+}
+.gambarhtml1{
+    width:350px;
+}
+.celltable2{
+font-size:32px;
+height:fit-content;
+}
+.table2{
+    position:absolute;
+    top:505px;
+    width:95%;
+    left:2%;
+}
+.gambarhtml2{
+    width:600px;
+}
+.celltable2judul{
+    font-size:35px;
+    height:10px;
+    left:10px;
+}
+.celltable2isi{
+    font-size:20px;
+    height:20px;
+}
+.numberlist{
+    list-style-type: disc;
+}
+.table3{
+    top:856px;
+    position:absolute;
+    width:95%;
+    left:2%;
+}  
+.celltable3{
+    text-align:center;
+    font-size:40px;
+}
+.celltable4{
+    text-align:center;
+    font-size:30px;
+}
+.celltable5{
+    height:40px;
+}
+.penjelasanvsc{
+    text-align: justify;
+    font-size:20px;
+}
+.gambarhtml3{
+    width:300px;
+}
+.celltable6{
+    text-align:justify;
+    font-size:20px;
+}
+.celltable7{
+    font-size:20px;
+    text-align:center;
+}
+.table4{
+    top:1432px;
+    position:absolute;
+    width:95%;
+    left:2%;
+}
+.celltable9{
+    font-size:25px;
+}
+.celltable10{
+    width:10px;
+}
+.celltable11{
+    width:auto;
+}
+.celltable12{
+    font-size:20px;
+    text-align:center;
+}
+.table5{
+    position:absolute;
+    top:1900px;
+    width:95%;
+    left:2%;
+}
+.celltable19{
+    height:10px;
+    text-align:center;
+    font-size:40px;
+    
+}
+.linkmateri{
+   color:black;
+    text-decoration:none;
+    background-color:none;
+    padding:20px; 
+}
+.celltable20{
+    font-size:20px;
+    text-align:center;
+}
+
+.iframe1{
+    height:800px;
+    width:10px;
+}
+
+/* Materi1 */
+
+/* materi 2 */
+
+/* materi 3 */
+p{
+    font-size: 20px;
+    width: 80%;
+    text-align: justify;
+}
+li{
+    font-size: 20px;
+    width:80%;
+    text-align: justify;
+}
+.intab{
+    font-size:20px;
+    width: 60%;
+}
+.inmage{
+    width:100px;
+    height:100px;
+}
+
+
+
+
+
+
+
+}
